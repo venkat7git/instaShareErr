@@ -1,0 +1,63 @@
+.profile-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  padding: 5px 0px 5px 10px;
+}
+
+.profile-image {
+  width: 30px;
+  margin-right: 10px;
+  border-radius: 50px;
+}
+
+.profile-name {
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+
+.post-item {
+  width: 100%;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  margin-bottom: 40px;
+}
+
+.post-image {
+  width: 100%;
+}
+
+.icons-container {
+  display: flex;
+}
+
+.icon-button {
+  border: 0px;
+  background-color: transparent;
+}
+
+.post-details-container {
+  padding: 20px;
+  font-family: 'Roboto';
+}
+
+.comments-list {
+  list-style-type: none;
+  padding: 0px;
+}
+.user-name {
+  font-weight: bold;
+}
+
+.created-time {
+  font-family: 'Roboto';
+  color: #989898;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 15px;
+}
+.p-name{
+  font-size: 15px;
+}
